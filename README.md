@@ -7,6 +7,7 @@ The backend generates random values at frequency as high as 50elements/100ms and
 
 ``git clone <ssh link> `` if taken from github to get started. Then run the following commands.
 ```
+cd lighthouse
 chmod a+x run.sh
 ./run.sh -h
 ```
