@@ -1,7 +1,7 @@
 # Real-Time High Frequency Data Table 
 
 A web app which shows real time data with features such as settable frequency and threshold. 
-The backend generates random values at frequency as high as 50elements/100ms and sends it to the frontend app which dispalys it in real time through websockets (socket.io).
+The backend generates random values at frequency as high as 50elements/100ms and sends it to the frontend app that displays it in real time through websockets (socket.io).
 
 ## Getting Started
 
